@@ -21,7 +21,7 @@ g++ telephone.cpp .\telephone.cpp -o main.exe
 Dan dapat menjalankan program dengan menggunakan perintah berikut:
 
 ```shell
-./main.exe
+.\main.exe
 ```
 ## Fitur
 
