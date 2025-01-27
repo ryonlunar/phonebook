@@ -27,9 +27,7 @@ Dan dapat menjalankan program dengan menggunakan perintah berikut:
 
 Program ini memiliki beberapa fitur utama.
 * **Mengelola Kontak**: Pengguna dapat menambahkan, menghapus, dan mengedit kontak pada program. 
-* **Mencari Kontak**: Kontak yang ada pada program dapat dicari oleh pengguna berdasarkan 
-
-
+* **Mencari Kontak**: Kontak yang ada pada program dapat dicari oleh pengguna berdasarkan nama pengguna.
 
 ## Contributing
 
