@@ -1,6 +1,6 @@
 # Simple Phonebook
 
-Proyek ini digunakan untuk memenuhi implementasi OOP pada Aksantara dengan membuat Phonebook sederhana untuk menyimpan dan melihat kontak pengguna dengan total maksimal 8 pengguna
+Proyek ini digunakan untuk memenuhi implementasi OOP pada Aksantara dengan membuat Phonebook sederhana untuk menyimpan dan melihat kontak pengguna.
 
 ![alt text](assets/phonebook.png)
 
